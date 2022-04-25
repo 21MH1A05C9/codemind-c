@@ -3,7 +3,7 @@ int main()
 {
 	int num,sum=0,sq,rem;
 	scanf("%d",&num);
-	sq=num*num;
+	sq=num*num;//81
 	for(;sq;)
 	{
 		rem=sq%10;
